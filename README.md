@@ -25,4 +25,4 @@ The refactored code showed incomparable performance efficiency.
 ![https://github.com/JasperMagorombo/stock-analysis/blob/master/Resources/VBA_Challenge_2018.png](https://github.com/JasperMagorombo/stock-analysis/blob/master/Resources/VBA_Challenge_2018.png)
 
 ## Summery
-
+It is clear that the refactoring of our code in VBA led massive performance bonuses, which is probably the best reason to refactor code. In order to successfully refactor though a thorough road map is needed as you will need to know where you can trim the fat of your code. The tradeoff in refactoring is the time spent optimizing code vs. the efficency gain of the code. 
