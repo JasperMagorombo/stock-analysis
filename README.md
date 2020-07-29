@@ -19,7 +19,7 @@ The refactored code showed incomparable performance efficiency.
 ### 2018 Insight
 2018 was a rough year for the energy sector, only 2 of the 12 companies studied managed to end the year with positive returns. Gains were consolidated to two high volume tickers ENPH and HASI while the rest of the market bled out. DQ was hit hardest by the sector correction losing roughly 63% of its valuation from the start of the year.
 
-1[https://github.com/JasperMagorombo/stock-analysis/blob/master/Resources/2018noRE.png](https://github.com/JasperMagorombo/stock-analysis/blob/master/Resources/2018noRE.png)
+![https://github.com/JasperMagorombo/stock-analysis/blob/master/Resources/2018noRE.png](https://github.com/JasperMagorombo/stock-analysis/blob/master/Resources/2018noRE.png)
 
 The refactored code showed incomparable performance efficiency.
 ![https://github.com/JasperMagorombo/stock-analysis/blob/master/Resources/VBA_Challenge_2018.png](https://github.com/JasperMagorombo/stock-analysis/blob/master/Resources/VBA_Challenge_2018.png)
